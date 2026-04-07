@@ -1,5 +1,5 @@
 {
-  "_v": 1775587153984,
+  "_v": 1775592261969,
   "items": [
     {
       "id": 1775587153984,
@@ -11,17 +11,6 @@
       "badge_text": "test 2",
       "cat": "test2",
       "is_offer": true
-    },
-    {
-      "id": 1775587118273,
-      "name": "test1",
-      "price": "3000",
-      "img": "https://cdn.jsdelivr.net/gh/AdVax/HANAN@main/images/img_1775587090164_5728.webp",
-      "desc": "test1",
-      "old_price": "4500",
-      "badge_text": "test1",
-      "cat": "testp",
-      "is_offer": false
     }
   ]
 }
